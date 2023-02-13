@@ -3,6 +3,8 @@
 👯 I'm looking to collaborate on projects in the financial, agricultural and geospatial areas;<br>
 🤖 I’m currently learning abou Machine Learning.
 
+## **Let's do something great**
+
 ![TomCruiseTopGunGIF](https://user-images.githubusercontent.com/62614703/218274040-22434842-9a64-4305-a8d8-0f61a7f09641.gif)
 
 
