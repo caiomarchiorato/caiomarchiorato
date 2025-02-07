@@ -1,7 +1,11 @@
 # 💭 About Me:
-🔭 I’m currently working on Data Science Projects;<br>
-👯 I'm looking to collaborate on projects in the financial, agricultural and geospatial areas;<br>
-🤖 I’m currently learning abou Machine Learning.
+👋 Hi! I'm a Data Scientist with a background in Agronomy, currently pursuing a Bachelor’s degree in Computer Science and a Master’s in Agricultural Engineering. I have a strong interest in data science, data engineering, and back-end development.
+
+💡 I enjoy exploring data, building efficient pipelines, and developing smart solutions for complex problems.
+
+🚀 Technologies I work with: Python, SQL, Flask, FastAPI, Pandas, Spark, Docker, among others.
+
+📌 Always learning and experimenting with new ideas. Let’s connect!
 
 ## **Let's do something great**
 
